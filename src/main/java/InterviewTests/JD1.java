@@ -1,6 +1,6 @@
-package TestesEmpresas;
+package InterviewTests;
 
-class JohnDeere1 {
+class JD1 {
 	static int firstNonRepeating(String str) {
 		char[] count = new char[80];
 
