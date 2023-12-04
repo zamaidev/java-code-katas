@@ -1,2 +1,2 @@
 # myKodeCatas
-Study cpde katas from hackerrank, leetcode and interview questions
+Study code katas from hackerrank, leetcode and interview questions
