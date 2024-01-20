@@ -18,9 +18,9 @@ public class CesarCipher {
 		char[] decoded = s.toCharArray();
 		for (int i = 0; i < s.length(); i++) {
 			decoded[i+k] = s.charAt(i);
-			if (decoded[i+1] == null) {
+			// if (decoded[i+1] == null) {
 
-			}
+			// }
 		}
 		return Arrays.toString(decoded);
 	}

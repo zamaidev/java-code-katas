@@ -1,0 +1,7 @@
+/target/
+/.idea/
+*.prefs
+*.iml
+.project
+.classpath
+settings.json
