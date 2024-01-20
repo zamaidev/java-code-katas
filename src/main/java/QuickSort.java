@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class QuickSort {
@@ -6,19 +7,10 @@ public class QuickSort {
 
         List<Integer> list = new ArrayList<>();
 
-        list.add(17);
-        list.add(14);
-        list.add(23);
-        list.add(2);
-        list.add(4);
-        list.add(9);
-        list.add(15);
-        list.add(1);
-        list.add(0);
-        list.add(3);
-        list.add(5);
+        Collections.addAll(list, 1,2,3,5,6,7,8,9,10);
 
         List<Integer> sorted = new ArrayList<>();
+
         sorted = quicksort(list);
 
         System.out.println(sorted);

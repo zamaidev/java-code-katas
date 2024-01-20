@@ -48,7 +48,6 @@ class GFG
 				int pos = sc.nextInt();
 				makeLoop(head, tail, pos);
 
-				LinkedListLoop x = new LinkedListLoop();
 				if( LinkedListLoop.detectLoop(head) )
 					System.out.println("True");
 				else
