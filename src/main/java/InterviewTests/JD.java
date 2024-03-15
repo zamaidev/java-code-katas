@@ -1,6 +1,6 @@
 package InterviewTests;
 
-class JD1 {
+class JD {
 	static int firstNonRepeating(String str) {
 		char[] count = new char[80];
 
