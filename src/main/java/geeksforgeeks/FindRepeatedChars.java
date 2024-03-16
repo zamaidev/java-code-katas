@@ -1,4 +1,4 @@
-package GeeksForGeeks;
+package geeksforgeeks;
 
 class FindRepeatedChars {
 	static final int NO_OF_CHARS = 256;

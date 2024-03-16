@@ -1,4 +1,4 @@
-package InterviewTests;
+package reals;
 
 public class WM {
 

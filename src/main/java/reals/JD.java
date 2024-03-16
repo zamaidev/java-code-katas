@@ -1,4 +1,4 @@
-package InterviewTests;
+package reals;
 
 class JD {
 	static int firstNonRepeating(String str) {

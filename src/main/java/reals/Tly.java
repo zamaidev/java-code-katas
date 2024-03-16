@@ -1,4 +1,4 @@
-package InterviewTests;
+package reals;
 
 class Tly {
 

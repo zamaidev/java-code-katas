@@ -1,6 +1,6 @@
-package LeetCode;
+package leetcode;
 
-public class RotateArrayS {
+public class RotateArray {
 
     public static void main(String[] args) {
         int k = 2;
