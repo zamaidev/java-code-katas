@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.arrays;
 
 /*
 [1,2,3

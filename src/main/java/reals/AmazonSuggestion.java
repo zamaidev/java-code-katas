@@ -1,4 +1,4 @@
-package hackerrank;
+package reals;
 
 import java.util.ArrayList;
 import java.util.List;
